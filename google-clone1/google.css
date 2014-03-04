@@ -1,0 +1,456 @@
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	min-width: 800px;
+}
+#first{
+	
+	text-align: right;
+	list-style: none;
+	margin-top: 15px;
+	margin-right: 10px;
+}
+#first li{
+	font-family: arial;
+    color: #2F4F4F;
+    font-size: 13px;    
+	display: inline;
+	padding: 5px;
+	vertical-align: middle;
+}
+img {
+	vertical-align: middle;
+}
+#part2{
+	text-align: center;
+	margin-top: 150px;
+}
+#sign {
+	background-color: #4876FF;
+	color: white;
+	border: 0px;
+	padding: 7px;
+	padding-left: 12px;
+	padding-right: 12px;
+	font-weight: bold;
+	border-radius: 2px;
+}
+#google{
+	height:100px;
+	width: 270px;
+}
+#input {
+	text-align: center;
+	border: none;
+}
+#text{
+	border: 1px solid gray;
+}
+#img1{
+	margin-left: -30px;
+}
+input{
+	width: 560px;
+	height: 30px;
+	border: 1px solid #C1CDCD;
+}
+#buttons
+{
+	text-align: center;
+}
+#buttons button{
+	margin-right: 8px;
+}
+button
+{
+	padding: 6px;
+	font-weight: bold;
+	font-size: 11px;
+	color:#3B3B3B;
+	background-color: #F2F2F2;
+	border-radius: 2px;
+	border: 1px solid #D6D6D6;
+}
+#foot
+{
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	height: 40px;
+	background-color: #FAFAFA;
+	border: 1px solid #C1CDCD;
+	width: 100%;
+	padding-top: 10px;
+}
+#end{
+	float: left;
+}
+#end li{
+	display: inline;
+	padding: 3px;
+	font-family: arial;
+	padding: 7px;
+	font-size: 13px;
+}
+#end a{
+	    text-decoration: none;
+	    color:#848484;
+}
+#end a:hover{
+	text-decoration: underline;
+}
+#right{
+       float: right;
+}
+#right li{
+	display: inline;
+	padding: 3px;
+	font-family: arial;
+	padding: 7px;
+	font-size: 13px;
+}
+#right a{
+	    text-decoration: none;
+	    color:#848484;
+}
+#right a:hover{
+	text-decoration: underline;
+}
+#container{
+	padding: 0px 0px -40px 0px;
+	min-height: 100%;
+	height: 100%;
+	height: auto !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

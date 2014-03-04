@@ -1,0 +1,115 @@
+#main li{
+		list-style:none;
+		display:inline;
+		font-weight:bold;
+		font-size:30px;
+		font-family: 'Oregano', cursive;
+		color:#5E2612;
+		margin:7px;
+		background-color:#FFAEB9;
+		border:2px dotted black;
+		
+}
+#main{
+	text-align:center;
+
+}
+body{
+	background-color:#B0171F;
+}
+#container
+{
+
+	min-width:1000px;
+	margin: 0 auto;
+	width:1000px;
+}
+#field{
+	text-align:center;
+	border:0px;
+	padding-bottom: 35px;
+}
+#search{
+	width:550px;
+}
+#first{
+
+	background-color: white;
+}
+img{
+	float: left;
+	height: 225px;
+	width: 250px;
+}
+.menu{
+	text-align: center;
+	background-color:white;
+}
+.menu li{
+	display: inline;
+	color:#DB7093;
+	font-weight: bold;
+	font-size: 26px;
+	font-family: 'Lily Script One', cursive;
+	margin:10px;
+	
+}
+.menu li:hover{
+		background-color:#F5FFFA;
+		color:#B0171F;
+}
+ 
+
+ h2 {
+	color:#DB7093;
+	font-size:50px;
+	text-align:center;
+	font-family: 'Engagement', cursive;
+
+}
+
+#content{
+	overflow: hidden;
+	background-color:#B0171F;
+}
+
+#logo{
+		float:left;
+}
+#bakery{
+	margin:10px;
+	border-radius:5px;
+	float:left;
+	height:400px;
+	width:600px;
+	
+}
+#order{
+	margin-top:50px;
+	margin-right:50px;
+	padding:30px;
+	float:right;
+	border-radius:10px;
+	border:2px solid white;
+}
+#footer{
+	clear:both;
+	
+}
+.name1{
+	border-radius:5px;
+	margin:5px;	
+}
+.name{
+	color:white;
+	font-size:20px;
+}
+#submit{
+
+	margin-left:50px;
+	margin-top:10px;
+	color:#B0171F;
+	padding:7px;
+	font-weight:bold;
+	
+}
