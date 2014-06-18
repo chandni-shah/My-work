@@ -1,0 +1,83 @@
+
+#header li{
+	list-style:none;
+	display:inline;
+	font-size:23px;
+	padding:20px;
+	font-family: 'Oswald', sans-serif;
+	
+	
+}
+.images{
+	height:30px; 
+	width:30px;
+	margin-right:10px;
+	vertical-align: middle;
+	
+}
+#main{
+	height:180px;
+	width: 200px;	
+	margin-left: 300px;
+	
+}
+a{
+	text-decoration:none;
+	color:#8B4513;
+}
+#header{
+	text-align:center;
+	clear:both;
+	
+}
+a:hover{
+	background-color:#FFA500;
+
+}
+div{
+	
+	height:180px;
+}
+
+p{
+	color:#8B4500;
+	font-size:35px;
+	font-family: 'Lobster', cursive;
+	margin-left:380px;
+}
+#card{
+	float:left;
+}
+#content{
+	width:800px;
+	margin:0 auto;
+
+}
+
+#cafe{
+	height:400px;
+	width: 800px;
+}
+#cold{
+	margin-top:20px;
+	height:500px; 
+	width:800px;
+	border: 8px solid #8B5A00;
+}
+.list1 {
+	list-style: none;
+	margin-left: -35px;
+}
+.list1 li{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+}
+h3{
+	font-family: 'Francois One', sans-serif;
+	color:#8B4500;
+}
+.footer{
+	float: left;
+	margin-right: 20px;
+	margin-left: 50px;
+}
